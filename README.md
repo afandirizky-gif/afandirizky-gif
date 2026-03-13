@@ -1,4 +1,5 @@
-## Hi there 👋
+## Helo Word I'm Rizky 👋
+![Rizky](img/ikan%20-%20Salin.jpg)
 
 <!--
 **afandirizky-gif/afandirizky-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😊😍
+![happy birthday](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2g3dTY5NHMxZDlodm41NzVrZzZlb2RneW91bmV6OG8zanp2ZnB5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtQnovDhVs8dAjvkMV/giphy.gif)
