@@ -1,5 +1,8 @@
-## Helo Word I'm Rizky 👋
-![Rizky](img/ikan%20-%20Salin.jpg)
+## Hai🙌 Saya Rizky 
+![Rizky](img/github-header-banner.png)
+
+##### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,figma)](https://skillicons.dev)
 
 <!--
 **afandirizky-gif/afandirizky-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😊😍
-![happy birthday](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2g3dTY5NHMxZDlodm41NzVrZzZlb2RneW91bmV6OG8zanp2ZnB5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtQnovDhVs8dAjvkMV/giphy.gif)
+#### my Github Stats
+![Rizky Afandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=afandirizky-gif&hide=contribs,prsicons=true&theme=algolia&locale=id)
